@@ -15,7 +15,7 @@ Note that walkthroughs are for informational purposes only, and we try to keep t
 
 Also note that the crypto world is very young, and many functionalities are dangerous. Always confirm you are sending to the right address, always check your gas fees, and start learning with a small amount of money.
 
-{{< button "walkthroughs/" "Read the Walkthroughs" >}} 
+{{< button "docs/" "Read the Walkthroughs" >}} 
 
 {{< /column >}}
 {{< column >}}
