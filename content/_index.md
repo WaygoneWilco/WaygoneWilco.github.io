@@ -7,7 +7,7 @@ title = "Compose"
 
 # Learn how to use Uniswap with  __Ease__.
 
-Unitools is a walkthroug site for `Uniswap`, the decentralized market maker platform. 
+Unitools is a walkthrough site for `Uniswap`, the decentralized market maker platform. 
 
 Walkthroughs are written and maintained by the Unicrypt community.
 
