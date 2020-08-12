@@ -1,5 +1,5 @@
 baseURL = "https://distracted-franklin-7897f4.netlify.app/"
-title = "Compose Docs"
+title = "Unitools"
 enableRobotsTXT = true
 theme = "compose"
 enableGitInfo = true
@@ -8,9 +8,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "Docs"
+    name = "Walkthroughs"
     weight = 2
-    url = "docs/"
+    url = "walkthroughs/"
 
 [markup]
   [markup.goldmark]
@@ -30,14 +30,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Everything below this are Site Params
 
 [params]
-  author = "Weru"
-  searchPlaceholder = "Search the docs ..."
+  author = "Unicrypt Community"
+  searchPlaceholder = "Search"
   repo = "https://github.com/onweru/compose"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
   [params.logo]
-    lightMode = "compose.svg"
+    lightMode = "unitools.svg"
     darkMode = "compose-light.svg"
 
   [params.source]
