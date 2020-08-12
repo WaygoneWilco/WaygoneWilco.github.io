@@ -3,38 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/</loc>
+    <loc>https://unitools.netlify.app/docs/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/getting-started/</loc>
+    <loc>https://unitools.netlify.app/walkthroughs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/docs/getting-started/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/getting-started/overview/</loc>
+    <loc>https://unitools.netlify.app/walkthroughs/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/docs/getting-started/overview/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/getting-started/shortcodes/</loc>
+    <loc>https://unitools.netlify.app/walkthroughs/getting-started/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/docs/getting-started/shortcodes/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/getting-started/shortcodes-example/</loc>
+    <loc>https://unitools.netlify.app/walkthroughs/getting-started/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/docs/getting-started/shortcodes-example/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/getting-started/dummy-content/</loc>
+    <loc>https://unitools.netlify.app/walkthroughs/getting-started/shortcodes-example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/docs/getting-started/dummy-content/</loc>
     <lastmod>2020-08-11T17:43:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/</loc>
-    <lastmod>2020-08-11T17:43:55-04:00</lastmod>
+    <loc>https://unitools.netlify.app/walkthroughs/getting-started/dummy-content/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unitools.netlify.app/</loc>
+    <lastmod>2020-08-12T06:24:10-04:00</lastmod>
   </url>
   
 </urlset>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compose Docs</title>
-    <link>https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/</link>
-    <description>Recent content on Compose Docs</description>
+    <title>Compose Docs on Unitools</title>
+    <link>https://unitools.netlify.app/docs/</link>
+    <description>Recent content in Compose Docs on Unitools</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://5f331194d5218c00a15c3540--distracted-franklin-7897f4.netlify.app/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://unitools.netlify.app/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
