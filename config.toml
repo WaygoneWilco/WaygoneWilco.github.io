@@ -1,46 +1,139 @@
-baseURL = "https://unitools.netlify.app/"
-title = "Unitools"
+baseURL = "unitools.netlify.app"
+languageCode = "en-us"
+title = "Equality Token"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
 enableRobotsTXT = true
-theme = "compose"
-enableGitInfo = true
+# google analytics tracking id
+googleAnalytics = ""
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+enableGitInfo = false
+pygmentsCodeFences = true
 
-#  menu items
-[[menu.main]]
-    name = "Walkthroughs"
-    weight = 2
-    url = "docs/"
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-    style = "monokai"
-    tabWidth = 2
-
-# Everything below this are Site Params
-
+# Site Params
 [params]
-  author = "Unicrypt Community"
-  searchPlaceholder = "Search"
-  repo = "https://github.com/onweru/compose"
+logo = "images/logo.png"
 
-  time_format_blog = "Monday, January 02, 2006"
-  time_format_default = "January 2, 2006"
-  [params.logo]
-    lightMode = "unitools.svg"
-    darkMode = "compose-light.svg"
+# Gestion des langues : FR / EN / NL / DE
 
-  [params.source]
-    name = "GitHub"
-    icon = "github.svg"
-    url = "https://github.com/onweru/compose/"
+
+
+# meta data
+author = "Equality Token"
+description = "This is the main project site for the Equality token project"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+
+############# 2 - Site en ENGLISH
+[Languages.en]
+weight = 2
+languageCode = "en-us"
+title = "Equality Token"
+dateFormat = "January 2, 2006"
+
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = "Equality Token"
+footerServiceTitle = "Service"
+footerQuicklinkTitle = "Quicklinks"
+footerAboutTitle = "About"
+footerSubscribeTitle = "Subscribe"
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable  = true
+heading = "The Never Ending Cycle"
+description = "Have you ever wondered where to invest your hard earned money because you scared you catch a rug pull? Have you ever wondered how you could make money without taking risk? That`s why our team is here, to bring Equality. We believe everyone deserve to be rich and wealthy, this is the main reason why EQUALITY token was created. "
+button  = true
+btnText = "Lite Paper"
+btnURL  = "https://themefisher.com/"
+videoThumb = "images/scales.jpg"
+
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable  = false
+title   = "We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable  = false
+topTitle= "OUR UNTOLD STORY"
+title   = "Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.en.params.contact]
+enable  = true
+topTitle= ""
+title   = "Join Us."
+subtitle= ""
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable  = false
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+
+
+# Footer Service Menu
+[[menu.service]]
+name    = "graphicdesign"
+url     = "service"
+weight  = 1
+[[menu.service]]
+name    = "webdesign"
+url     = "service"
+weight  = 2
+[[menu.service]]
+name    = "webdevelopment"
+url     = "service"
+weight  = 3
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = "about"
+weight  = 1
+[[menu.quicklink]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.quicklink]]
+name    = "faqs"
+url     = "about"
+weight  = 3
+[[menu.quicklink]]
+name    = "badges"
+url     = "about"
+weight  = 4
