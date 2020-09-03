@@ -1,4 +1,4 @@
-baseURL = "unitools.netlify.app"
+baseURL = "https://unitools.netlify.app/"
 languageCode = "en-us"
 title = "Equality Token"
 theme = "navigator-hugo"
