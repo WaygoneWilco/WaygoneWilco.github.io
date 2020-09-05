@@ -55,8 +55,8 @@ enable  = true
 heading = "The Never Ending Cycle"
 description = "Have you ever wondered where to invest your hard earned money because you scared you catch a rug pull? Have you ever wondered how you could make money without taking risk? That`s why our team is here, to bring Equality. We believe everyone deserve to be rich and wealthy, this is the main reason why EQUALITY token was created. "
 button  = true
-btnText = "Lite Paper"
-btnURL  = "https://themefisher.com/"
+btnText = "Join Telegram"
+btnURL  = "https://t.me/equalityofficial"
 videoThumb = "images/scales.jpg"
 
 
@@ -83,10 +83,11 @@ address = "14/05, Stockhome <br> Victori Palace , United States"
 phone   = "(03) 9283 2617"
 fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
+twitter = "https://twitter.com/EqualityToken"
 linkedin= "https://www.linkedin.com/"
 dribbble= "https://dribbble.com/"
 instagram= "https://www.instagram.com/"
+telegram= "https://t.me/equalityofficial"
 mapLatitude = "51.507351"
 mapLongitude= "-0.127758"
 mapMarker   = "images/marker.png"

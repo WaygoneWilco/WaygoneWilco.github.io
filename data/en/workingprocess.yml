@@ -10,25 +10,25 @@ item    :
       You are early at this stage, the cycle just restarted, this means the price is closer to $0.01 than to $1 and you will have the biggest return in this cycle.
 
   - number  : 2
-    icon    : tf-ion-ios-alarm-outline
+    icon    : tf-ion-android-arrow-up
     title   : Phase 2 - Inflation
     description : >
       At this stage the burning mechanism starts, in return to increase the price of $EQUA coins
 
   - number  : 3
-    icon    : tf-ion-ios-email-outline
+    icon    : tf-ion-android-alert
     title   : Phase 3 - Selling
     description : >
       Once you are at this stage, you can start to sell your coins, because after the next phase every $EQUA coin will worth less than right now.
 
   - number  : 4
-    icon    : tf-ion-ios-locked-outline
+    icon    : tf-ion-android-arrow-down
     title   : Phase 4 - Deflation
     description : >
       Once the $EQUA coin price reaches $1.00, minting mechanism starts to reduce the price of $EQUA coins.
 
   - number  : 5
-    icon    : tf-ion-ios-locked-outline
+    icon    : tf-ion-android-refresh
     title   : Phase 5 - New Cycle
     description : >
       The current cycle ended, it is not safe to buy now, wait for the next cycle.
