@@ -17,7 +17,7 @@ Deeply contaminated water can “taste clean”. Ensure your water is clear of:
 * And more that we regularly test for
 
  To avoid negative health outcomes like:
-* Bacterial poisoning (dhiarrea, vomiting)
+* Bacterial poisoning (diarrhea, vomiting)
 * Chronic health conditiions (slow, accumulating degradation of health)
 
 ### Take charge of the health and safety of your family or employees and have your water supply tested. Even if your water tastes "good and clean", it could be contaminated.
